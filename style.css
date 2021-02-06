@@ -166,6 +166,7 @@ header{
     grid-column: 7/13;
     grid-row: 1 / -1;
     margin-bottom:20px;
+    text-align: center;
 }
 
 .img-mission{
